@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Submission_api_30_android_pemula</string>
+    <string name="boba_name">Menu Minuman Boba</string>
+    <string name="description">Aplikasi Menu Menu Boba</string>
+    <string name="price">Harga Minuman Boba</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+
+    <string-array name="data_name">
+        <item>Avocado</item>
+        <item>Blueberry</item>
+        <item>Coco Avocado</item>
+        <item>Coffe Late</item>
+        <item>Kop Milk</item>
+        <item>Green Tea</item>
+        <item>Thai Tea</item>
+        <item>Tiramisu</item>
+        <item>Vanilla Coffe</item>
+        <item>Taro</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Minuman segar dengan rasa alpukat yang kaya dan lembut.</item>
+        <item>Rasakan sensasi manis dan segar dari blueberry dalam setiap tegukan.</item>
+        <item>Paduan unik dari rasa alpukat dan kelapa untuk kenikmatan yang luar biasa.</item>
+        <item>Nikmati cita rasa kopi lembut dalam minuman ini, sempurna untuk penyuka kopi.</item>
+        <item>Minuman susu kopi dengan cita rasa khas, memberikan energi dan kelezatan sekaligus.</item>
+        <item>Rasakan kesegaran dan kesehatan dalam setiap tegukan dengan teh hijau ini.</item>
+        <item>Minuman tradisional Thailand yang manis dan menyegarkan.</item>
+        <item>Tiramisu dalam bentuk minuman yang kaya rasa, sempurna untuk pencinta dessert.</item>
+        <item>Perpaduan sempurna antara kopi dan vanilla yang menggugah selera.</item>
+        <item>Nikmati kelezatan rasa taro yang lembut dan manis dalam setiap tegukan.</item>
+    </string-array>
+
+    <string-array name="data_harga">
+        <item>10000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>12000</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/avocado</item>
+        <item>@drawable/blueberry</item>
+        <item>@drawable/coco_avocado</item>
+        <item>@drawable/coffe_late</item>
+        <item>@drawable/kop_milk</item>
+        <item>@drawable/green_tea</item>
+        <item>@drawable/thai_tea</item>
+        <item>@drawable/tiramisu</item>
+        <item>@drawable/vanilla_coffe</item>
+        <item>@drawable/taro</item>
+    </integer-array>
+
+    <string-array name="data_photo_string">
+        <item>@drawable/avocado</item>
+        <item>@drawable/blueberry</item>
+        <item>@drawable/coco_avocado</item>
+        <item>@drawable/coffe_late</item>
+        <item>@drawable/kop_milk</item>
+        <item>@drawable/green_tea</item>
+        <item>@drawable/thai_tea</item>
+        <item>@drawable/tiramisu</item>
+        <item>@drawable/vanilla_coffe</item>
+        <item>@drawable/taro</item>
+    </string-array>
+
+</resources>
